@@ -6,9 +6,9 @@
 
 ## Solution
 - Use [Pygame]("https://www.pygame.org/news") to draw the image
-- Performance improvement with half int. idea to [this project]("https://git.nowcoder.com/11000160/image_noise")
+- Performance improvement with half int. idea to [this project](https://git.nowcoder.com/11000160/image_noise)
 
 ## Result
 - Running on Mbp 2015, observed highest FPS is ~57.
 
-Example image: ![example image](https://github.com/OdessaR/Python_noise_generator/blob/master/example.png?raw=true)
+![example image](https://github.com/OdessaR/Python_noise_generator/blob/master/example.png?raw=true)
