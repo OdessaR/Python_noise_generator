@@ -11,4 +11,4 @@
 ## Result
 - Running on Mbp 2015, observed highest FPS is ~57.
 
-Example image: ![example image]("https://github.com/OdessaR/Python_noise_generator/blob/master/example.png")
+Example image: ![example image]("https://github.com/OdessaR/Python_noise_generator/blob/master/example.png?raw=true")
