@@ -11,4 +11,4 @@
 ## Result
 - Running on Mbp 2015, observed highest FPS is ~57.
 
-Example image: in `example.png`
+Example image: ![example image]("example.png")
